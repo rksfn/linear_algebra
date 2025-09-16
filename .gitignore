@@ -18,3 +18,7 @@ __pycache__/
 # System files
 .DS_Store
 Thumbs.db
+
+# uv stuff
+*.toml
+*.lock
